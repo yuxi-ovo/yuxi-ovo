@@ -8,7 +8,7 @@
 
 [MyBlog](https://course.pink/#/home)
 
-[![Github stats](https://github-readme-stats.vercel.app/api?username=yuxi-ovo&show_icons=true&include_all_commits=true)](https://github.com/yuxi-ovo/github-readme-stats)
+[![Github stats](https://github-readme-stats.vercel.app/api?username=yuxi-ovo&show_icons=true&include_all_commits=true&theme=tokyonight)](https://github.com/yuxi-ovo/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yuxi-ovo&layout=compact)](https://github.com/YourUsername/github-readme-stats)
 
 ​	
