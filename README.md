@@ -14,12 +14,7 @@
 ### 💫 My own blog
 
 [course.pink](https://course.pink/#/home)
-
-### 💪 Github info
-[![Github stats](https://github-readme-stats.vercel.app/api?username=yuxi-ovo&show_icons=true&include_all_commits=true&theme=tokyonight)](https://github.com/yuxi-ovo/github-readme-stats)
-
-### 📚 Language
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yuxi-ovo&layout=donut)](https://github.com/YourUsername/github-readme-stats)
+  
 
 ### 🚀 Contribute
 <picture>
@@ -27,6 +22,5 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/yuxi-ovo/yuxi-ovo/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/yuxi-ovo/yuxi-ovo/output/github-contribution-grid-snake.svg">
 </picture>
-​	
 
 </div>
