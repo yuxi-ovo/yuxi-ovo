@@ -1,14 +1,32 @@
-## Hi I am Yuxi 👋     [![CodeTime Badge](https://img.shields.io/endpoint?style=social&color=222&url=https%3A%2F%2Fapi.codetime.dev%2Fshield%3Fid%3D23023%26project%3D%26in=0)](https://codetime.dev)
+<div align='center'>
+  
+## Hi I am Yuxi 👋      <img href="https://codetime.dev" alt="CodeTime Badge" src="https://img.shields.io/endpoint?style=social&color=222&url=https%3A%2F%2Fapi.codetime.dev%2Fshield%3Fid%3D23023%26project%3D%26in=0">
 
-### My technical stack
 
-![My Skills](https://skillicons.dev/icons?i=js,ts,nodejs,vue,vite,rollup,rust,vitest,go,python,java,spring&perline=6)
+### 🔥 My technical stack
 
-### My own blog
+![My Skills](https://skillicons.dev/icons?i=js,ts,nodejs,vue,pinia,vite,rollup,vitest,nest,express,python,java,spring,apple&perline=7)
 
-[MyBlog](https://course.pink/#/home)
+### 🛠 Development tool
 
+![My Skills](https://skillicons.dev/icons?i=vscode,webstorm,pycharm,idea&perline=7)
+
+### 💫 My own blog
+
+[course.pink](https://course.pink/#/home)
+
+### 💪 Github info
 [![Github stats](https://github-readme-stats.vercel.app/api?username=yuxi-ovo&show_icons=true&include_all_commits=true&theme=tokyonight)](https://github.com/yuxi-ovo/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yuxi-ovo&layout=compact)](https://github.com/YourUsername/github-readme-stats)
 
+### 📚 Language
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yuxi-ovo&layout=donut)](https://github.com/YourUsername/github-readme-stats)
+
+### 🚀 Contribute
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yuxi-ovo/yuxi-ovo/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/yuxi-ovo/yuxi-ovo/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/yuxi-ovo/yuxi-ovo/output/github-contribution-grid-snake.svg">
+</picture>
 ​	
+
+</div>
