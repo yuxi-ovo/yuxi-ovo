@@ -10,10 +10,11 @@
 ### 🛠 Development tool
 
 ![My Skills](https://skillicons.dev/icons?i=vscode,webstorm,pycharm,idea&perline=7)
-
+   
 ### 💫 My own blog
 
-[course.pink](https://course.pink/#/home)
+[yuxi-blog](https://course.pink/#/home)
 
-
+![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=yuxi-ovo)
 </div>
+
