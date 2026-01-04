@@ -13,7 +13,7 @@
    
 ### 💫 My own blog
 
-[yuxi-blog](https://course.pink/#/home)
+[yuxi-blog](https://zrzh.online/home)
 
 ![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=yuxi-ovo)
 </div>
