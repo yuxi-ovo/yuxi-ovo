@@ -1,6 +1,6 @@
 <div align='center'>
   
-## Hi I am Yuxi 👋      [![CodeTime Badge](https://shields.jannchie.com/endpoint?style=social&color=222&url=https%3A%2F%2Fapi.codetime.dev%2Fv3%2Fusers%2Fshield%3Fuid%3D23023)](https://codetime.dev)
+## Hi I am Yuxi 👋      [![CodeTime Badge](https://shields.jannchie.com/endpoint?style=plastic&color=222&url=https%3A%2F%2Fapi.codetime.dev%2Fv3%2Fusers%2Fshield%3Fuid%3D23023)](https://codetime.dev)
 
 
 ### 🔥 My technical stack
